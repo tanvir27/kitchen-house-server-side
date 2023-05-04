@@ -16,9 +16,7 @@ app.get("/chefDetails", (req, res) => {
 });
 // specific data
 app.get("/chefDetails/:id", (req, res) => {
-  const id = req.params.id;
-  const specificData = allData.find((data) => data.id == id);
-  res.send(specificData);
+
 });
 
 app.listen(port, () => {
