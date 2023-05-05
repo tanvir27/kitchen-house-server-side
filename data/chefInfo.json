@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "chef_picture": "https://img.freepik.com/free-photo/portrait-female-chef-with-cooking-pot-table-with-fresh-vegetables_613910-9837.jpg?w=900&t=st=1683026200~exp=1683026800~hmac=91ead536ac3e648375e24bc8d73620bca87c47c9d2b292a0952f96f643199022",
-    "chef_name": "Anna Smith",
-    "chef_bio": "Anna Smith is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+    "chef_picture": "https://img.freepik.com/free-photo/chef-making-ok-sign-white-background_1368-2804.jpg?size=626&ext=jpg&uid=R101497129&ga=GA1.1.1449908384.1679952179&semt=ais",
+    "chef_name": "Quin Smith",
+    "chef_bio": "Quin Smith is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
 
-    "years_of_experience": 10,
+    "years_of_experience": 15,
     "number_of_recipes": 250,
-    "total_likes": 50000,
+    "total_likes": 40000,
     "recipes": [
       {
         "recipe_name": "Classic Lasagna",
@@ -73,12 +73,12 @@
   },
   {
     "id": 2,
-    "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?w=900&t=st=1683022200~exp=1683022800~hmac=ab234959ec144296f666ed5b51c8519b05e356a60ef7b0460b9b09f6875572e2",
-    "chef_name": "Carlos Rodriguez",
-    "chef_bio": "Carlos Rodriguez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+    "chef_picture": "https://img.freepik.com/free-photo/handsome-chef-catching-ingredients-soup_329181-672.jpg?size=626&ext=jpg&uid=R101497129&ga=GA1.1.1449908384.1679952179&semt=ais",
+    "chef_name": " Gordon Ramsay",
+    "chef_bio": "Gordon Ramsay is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
 
     "years_of_experience": 15,
-    "number_of_recipes": 300,
+    "number_of_recipes": 500,
     "total_likes": 45000,
     "recipes": [
       {
@@ -144,13 +144,13 @@
   },
   {
     "id": 3,
-    "chef_picture": "https://img.freepik.com/free-photo/front-view-female-confectioner-white-wear-smiling-posing-pink-wall-cook-confectionery-sweet-pastry-job_140725-35322.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "chef_name": "Julia Nguyen",
-    "chef_bio": "Julia Nguyen is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+    "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-wearing-chef-uniform-glasses-crossing-hands_141793-81464.jpg?size=626&ext=jpg&uid=R101497129&ga=GA1.2.1449908384.1679952179&semt=ais",
+    "chef_name": "Julia Child",
+    "chef_bio": "Julia Child is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
 
-    "years_of_experience": 7,
-    "number_of_recipes": 200,
-    "total_likes": 35000,
+    "years_of_experience": 10,
+    "number_of_recipes": 400,
+    "total_likes": 25000,
     "recipes": [
       {
         "recipe_name": "Vietnamese Spring Rolls",
@@ -219,9 +219,9 @@
     "chef_name": "David Kim",
     "chef_bio": "David Kim is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
 
-    "years_of_experience": 12,
-    "number_of_recipes": 275,
-    "total_likes": 40000,
+    "years_of_experience": 10,
+    "number_of_recipes": 375,
+    "total_likes": 20000,
     "recipes": [
       {
         "recipe_name": "Korean BBQ Beef",
@@ -292,8 +292,8 @@
     "chef_name": "Maria Sanchez",
     "chef_bio": "Maria Sanchez is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
 
-    "years_of_experience": 9,
-    "number_of_recipes": 150,
+    "years_of_experience": 7,
+    "number_of_recipes": 1500,
     "total_likes": 25000,
     "recipes": [
       {
@@ -360,12 +360,12 @@
   },
   {
     "id": 6,
-    "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&ga=GA1.1.1346969389.1672858153&semt=robertav1_2_sidr",
-    "chef_name": "Alexandre Lefebvre",
-    "chef_bio": "Alexandre Lefebvre is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
-    "years_of_experience": 15,
-    "number_of_recipes": 300,
-    "total_likes": 45000,
+    "chef_picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-armsand-looks-camera-isolated-violet-wall-with-copy-space_141793-33149.jpg?size=626&ext=jpg&uid=R101497129&ga=GA1.1.1449908384.1679952179&semt=ais",
+    "chef_name": "Lefebvre Alice ",
+    "chef_bio": " Lefebvre Alice  is a pastry chef with over 12 years of experience in the culinary industry. She graduated from Le Cordon Bleu in Paris and has worked at several Michelin-starred restaurants in Europe and the United States. Julia is known for her classic desserts and her ability to elevate simple dishes with her culinary expertise.",
+    "years_of_experience": 5,
+    "number_of_recipes": 200,
+    "total_likes": 4500,
     "recipes": [
       {
         "recipe_name": "Beef Bourguignon",
